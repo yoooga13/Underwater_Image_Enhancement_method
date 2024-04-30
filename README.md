@@ -1,4 +1,3 @@
-# Underwater_Image_Enhancement_method
 
 ### General content of the paper
 - propose an underwater image enhancement method based on **adaptive histogram equalisation** and **improved cGAN**. 
@@ -11,3 +10,5 @@
 - Modules for image quality analysis based on **UIQM**, **SSIM**, and **PSNR** ([see Evaluation](/Evaluation/))
 
 - The **UIEB dataset** is used as the training set and test set, and the result examples can be seen in the file.([see result](/result/))
+
+
